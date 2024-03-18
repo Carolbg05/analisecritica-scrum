@@ -1,5 +1,5 @@
 # analisecritica-scrum
-Desafio - Formação Scrum Master DIO - Análise crítica Scrum 
+Desafio - Formação Scrum Certification DIO - Análise crítica Scrum 
 Resenha Crítica: Uso do SCRUM pela Sony Alemanha
 
 Introdução:
